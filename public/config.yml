@@ -1,0 +1,7 @@
+Servicies:
+  auth:
+    description: auth
+    path: /servicies/auth/openapi.yml
+  audit:
+    description: audit
+    path: /servicies/audit/openapi.yml
