@@ -24,4 +24,4 @@ $ copy all files to s3
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-(react-app-doc)[./react-app-doc.md]
+[react-app-doc](./react-app-doc.md)
